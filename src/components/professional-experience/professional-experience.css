@@ -1,0 +1,23 @@
+.professional-experience {
+}
+
+.professional-experience__section {
+	margin: 1rem 0;
+}
+
+.professional-experience__header {
+	display: flex;
+	justify-content: space-between;
+}
+
+.professional-experience__company-name {
+	font-weight: var(--bold-text);
+}
+
+.professional-experience__duration {
+	font-style: var(--italic-text);
+}
+
+.professional-experience__sub-heading {
+	font-style: var(--italic-text);
+}

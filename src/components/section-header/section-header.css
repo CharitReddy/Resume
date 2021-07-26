@@ -1,0 +1,8 @@
+.header {
+	/* main header */
+}
+
+.header__text {
+	font-weight: var(--bold-text);
+	font-size: var(--section-headings);
+}
