@@ -5,6 +5,12 @@
   /* Sizes */
   --divider-height: 3px;
   --divider-width: 100%;
+
+  /* fonts */
+  --section-headings: 1.5rem;
+  --content: 1rem;
+  --sub-heading: 0.875rem;
+  --bold-text: 600;
 }
 
 body {
